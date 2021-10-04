@@ -130,7 +130,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6438b2ce968f0a349a55d7b8fd8fa45a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  moveSpeed: 7
+  moveSpeed: 5
 --- !u!114 &1728207809756277994
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -143,7 +143,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 19a0bbc4c8a227146998fdc0799f5e1c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  lifeTime: 3
+  lifeTime: 5
 --- !u!61 &4427317224546784965
 BoxCollider2D:
   m_ObjectHideFlags: 0
